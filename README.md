@@ -1,5 +1,7 @@
 # ProjektPython
 
+Solving [Projekt Euler](https://projecteuler.net/about) Problems
+
 ## Problems
 
 - ✅ Problem 1
