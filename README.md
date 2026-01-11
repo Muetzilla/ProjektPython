@@ -1,6 +1,6 @@
 # ProjektPython
 
-Solving [Projekt Euler](https://projecteuler.net/about) Problems
+Solving [Projekt Euler](https://projecteuler.net/about) problems
 
 ## Problems
 
