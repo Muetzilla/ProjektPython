@@ -2,7 +2,7 @@
 
 Solving [Projekt Euler](https://projecteuler.net/about) problems
 
-Current progress: 12/100
+Current progress: 13/100
 
 ## Problems
 
@@ -117,5 +117,5 @@ Current progress: 12/100
 - ❌ Problem 96
 - ❌ Problem 97
 - ❌ Problem 98
-- ❌ Problem 99
+- ✅ Problem 99
 - ❌ Problem 100
