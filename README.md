@@ -2,6 +2,8 @@
 
 Solving [Projekt Euler](https://projecteuler.net/about) problems
 
+Current progress: 12/100
+
 ## Problems
 
 ### 1 - 10
